@@ -1,7 +1,7 @@
 " Look
 set showcmd        " Show (partial) command in status line.
 set ruler          " Show current position along the bottom
-set cursorline     " Cursor enthaltende Zeile hervorheben
+set cursorline     " Highlight cursor's line
 set number         " Show line numbers
 "set showbreak=>>   " Mark broken lines (not needed if :set number)
 set cmdheight=2    " Set the commandbar height
@@ -21,7 +21,7 @@ set showmatch      " Show matching brackets.
 set linebreak      " break lines
 set textwidth=72   " Linebreak after n characters
 set columns=72     " Linebreak after n characters
-set expandtab      " Spaces zur Einrueckung verwenden
+set expandtab      " Use spaces instead of tabs for indentation
 
 " Indenting
 set tabstop=2      " Tabulator length
