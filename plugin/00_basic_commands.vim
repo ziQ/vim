@@ -33,5 +33,5 @@ set autowrite      " Automatically save before commands like :make
 
 set noerrorbells   " Don't make noise
 
-set so=7           " show n 'context lines' while scrolling
+set scrolloff=7    " Set scroll offset to n
 
