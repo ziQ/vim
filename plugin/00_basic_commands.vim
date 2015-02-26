@@ -6,10 +6,10 @@ set number          " Show line numbers
 "set showbreak=>>    " Mark broken lines (not needed if :set number)
 set cmdheight=2     " Set the commandbar height
 
-" Backups (deactivated, backups are done via git, svn, ...)
-set nobackup
-set nowb
-set noswapfile
+"			" Backups (deactivated, backups are done via git, svn, ...)
+"			set nobackup
+"			set nowb
+"			set noswapfile
 
 " Searching and highlighting
 set ignorecase      " Do case insensitive matching
