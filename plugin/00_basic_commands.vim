@@ -40,3 +40,4 @@ set noerrorbells    " Don't make noise
 
 set scrolloff=7     " Set scroll offset to n
 
+colorscheme elflord
