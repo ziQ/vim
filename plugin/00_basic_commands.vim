@@ -36,6 +36,9 @@ set shiftround      " when at 3 spaces and hit > go to 4, not 5
 " manually set paste -- *only* when explicitly desired
 "set paste           " avoid broken indenting when pasting with mouse
 
+" Speaking of mouse: deactivate that stupid thing!
+set mouse-=a
+
 set autowrite       " Automatically save before commands like :make
 
 set noerrorbells    " Don't make noise
