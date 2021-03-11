@@ -11,8 +11,6 @@ set cursorline      " Highlight cursor's line
 set number          " Show line numbers
 set relativenumber  " Show lines above relative to current
 set cmdheight=2     " Set the commandbar height
-set showmatch
-set incsearch
 set scrolloff=7     " Set scroll offset to n
 
 
@@ -20,6 +18,7 @@ set scrolloff=7     " Set scroll offset to n
 set ignorecase      " Do case insensitive matching
 set smartcase       " Do smart case matching
 set showmatch       " highlight matching [{()}]
+set incsearch
 set matchtime=2     " how many tenths of a second to blink
 set nostartofline   " leave my cursor where it was
 set nohlsearch      " do not highlight searched for phrases
