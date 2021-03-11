@@ -9,6 +9,7 @@ set showcmd         " Show (partial) command in status line.
 set ruler           " Show current position along the bottom
 set cursorline      " Highlight cursor's line
 set number          " Show line numbers
+set relativenumber  " Show lines above relative to current
 "set showbreak=>>    " Mark broken lines (not needed if :set number)
 set cmdheight=2     " Set the commandbar height
 
