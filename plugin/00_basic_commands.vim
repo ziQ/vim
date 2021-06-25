@@ -9,7 +9,7 @@ set showcmd         " Show (partial) command in status line.
 set ruler           " Show current position along the bottom
 set cursorline      " Highlight cursor's line
 set number          " Show line numbers
-set relativenumber  " Show lines above relative to current
+"set relativenumber  " Show lines above relative to current
 set cmdheight=2     " Set the commandbar height
 set scrolloff=7     " Set scroll offset to n
 
@@ -23,7 +23,6 @@ set matchtime=2     " how many tenths of a second to blink
 set nostartofline   " leave my cursor where it was
 set nohlsearch      " do not highlight searched for phrases
 set autoindent      " auto indenting
-
 
 " Formatting
 set expandtab       " Use spaces instead of tabs for indentation
